@@ -1,0 +1,18 @@
+# Name: Adwaita-xfwm4
+# Author: Ramon Kaes <ramon.kaes@gmail.com>
+# Summary: xfwm4 window decoration for the Adwaita desktop suite
+# License: GPLv2 or later and CC-BY-SA 3.0 or later.
+# Date: December 2015
+
+active_text_color=#2E3436
+inactive_text_color=#8D9091
+full_width_title=true
+title_shadow_active=false
+title_shadow_inactive=false
+title_font=Sans Bold 10
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
+button_offset=1
+button_spacing=6
+maximized_offset=6
+show_app_icon=true
